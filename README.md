@@ -1,1 +1,2 @@
-# UNB-EDA2
+# Estruturas de Dados 2 (UNB - FGA0030)
+**Ementa:**  Estruturas não-lineares, Árvores, Tabelas hash, Grafos, Filas de prioridade, Heap, Algoritmos de ordenação avançados O(n log n) e O(n), Algoritmos de manipulação e análise de grafos, Aplicações
